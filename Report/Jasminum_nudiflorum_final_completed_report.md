@@ -161,11 +161,11 @@ The FASTA file for NC_008407.1 was downloaded from NCBI and uploaded to the pers
 
 ## 1. Give the full scientific name, family, NCBI accession/version, database source, and complete plastid-genome size of your selected organism.
 
-My selected organism is *Jasminum nudiflorum*, commonly known as winter jasmine. It belongs to the family Oleaceae. The complete chloroplast genome was obtained from the NCBI RefSeq/Nucleotide database with accession **NC_008407.1**. The genome has a total length of **165,121 bp** and is represented as circular DNA.
+My selected organism is *Jasminum nudiflorum*, commonly known as winter jasmine. It belongs to the family Oleaceae. The complete chloroplast genome was obtained from the NCBI RefSeq/Nucleotide database with accession NC_008407.1. The genome has a total length of 165,121 bp and is represented as circular DNA.
 
 ## 2. What evidence shows that the sequence is a complete plastid/chloroplast genome rather than a barcode marker, genome fragment, or nuclear sequence?
 
-The NCBI record is specifically named **“Jasminum nudiflorum chloroplast, complete genome”** and has the RefSeq accession **NC_008407.1**. The sequence is 165,121 bp long and contains numerous annotated chloroplast genes, including protein-coding genes, tRNA genes, and rRNA genes. The Galaxy FASTA Statistics result also shows one sequence with the same total length of 165,121 bp. Together, these features support that the selected sequence is a complete chloroplast genome rather than a short barcode marker or isolated genome fragment.
+The NCBI record is specifically named *Jasminum nudiflorum* chloroplast, complete genome and has the RefSeq accession NC_008407.1. The sequence is 165,121 bp long and contains numerous annotated chloroplast genes, including protein-coding genes, tRNA genes, and rRNA genes. The Galaxy FASTA Statistics result also shows one sequence with the same total length of 165,121 bp. Together, these features support that the selected sequence is a complete chloroplast genome rather than a short barcode marker or isolated genome fragment.
 
 ## 3. Describe the overall organization of the plastid genome. Does it contain the common LSC-IR-SSC-IR arrangement? Give the sizes of these regions when available.
 
@@ -176,15 +176,15 @@ Yes. The *Jasminum nudiflorum* chloroplast genome has the LSC–IR–SSC–IR or
 - **IRa:** 29,486 bp
 - **IRb:** 29,486 bp
 
-The two IR regions separate the LSC and SSC regions. The unusually large IRs are associated with expansion and duplication of genes such as **ycf1**.
+The two IR regions separate the LSC and SSC regions. The unusually large IRs are associated with expansion and duplication of genes such as ycf1.
 
 ## 4. Summarize the annotated gene content: total genes, protein-coding genes, tRNA genes, rRNA genes, and pseudogenes. Explain why genes located in the inverted-repeat regions may appear in two copies.
 
-The original complete-genome study reported **133 genes** in the *J. nudiflorum* chloroplast genome. In the current NC_008407.1 GenBank annotation used for this analysis, there are **131 gene features**, including **85 CDS features, 38 tRNA features, and 8 rRNA features**.
+The original complete-genome study reported 133 genes in the *J. nudiflorum* chloroplast genome. In the current NC_008407.1 GenBank annotation used for this analysis, there are 131 gene features, including 85 CDS features, 38 tRNA features, and 8 rRNA features.
 
-Genes located inside an inverted-repeat region can appear in two copies because the IR occurs twice in the circular plastid genome. In *J. nudiflorum*, expansion of the IR has also resulted in duplication of **ycf1**, which is normally a single-copy gene in many plastid genomes.
+Genes located inside an inverted-repeat region can appear in two copies because the IR occurs twice in the circular plastid genome. In *J. nudiflorum*, expansion of the IR has also resulted in duplication of ycf1, which is normally a single-copy gene in many plastid genomes.
 
-The current annotation does not contain an explicit pseudogene feature. However, the published study discusses gene reduction and gene fragments, including extensive reduction of **accD**.
+The current annotation does not contain an explicit pseudogene feature. However, the published study discusses gene reduction and gene fragments, including extensive reduction of accD.
 
 ## 5. Choose at least eight protein-coding plastid genes from different functional groups. List each gene and briefly explain its biological function.
 
@@ -201,28 +201,28 @@ The current annotation does not contain an explicit pseudogene feature. However,
 
 ## 6. Identify important RNA and RNA-processing features. Include the rRNA genes, examples of tRNA genes, and at least two genes with introns if present in your genome.
 
-The current annotation contains **8 rRNA features**, including **rrn16, rrn23, rrn4.5, and rrn5**, with the rRNA genes duplicated in the IR regions.
+The current annotation contains 8 rRNA features, including rrn16, rrn23, rrn4.5, and rrn5, with the rRNA genes duplicated in the IR regions.
 
-Examples of tRNA genes include **tRNA-Lys (UUU), tRNA-Gly (UCC), tRNA-Leu (UAA), tRNA-Val (UAC), tRNA-Ile (GAU), and tRNA-Ala (UGC)**.
+Examples of tRNA genes include tRNA-Lys (UUU), tRNA-Gly (UCC), tRNA-Leu (UAA), tRNA-Val (UAC), tRNA-Ile (GAU), and tRNA-Ala (UGC).
 
-Several genes contain introns. Examples include **rps16, atpF, rpoC1, rpl16, rpl2, ndhB, ndhA, petB, petD, and ycf3**. The annotation contains **23 intron features**. Notably, **ycf3 contains two introns**, and **rps12** is annotated as a trans-spliced gene. The **matK** gene occurs within the intron of the tRNA-Lys (UUU) gene.
+Several genes contain introns. Examples include rps16, atpF, rpoC1, rpl16, rpl2, ndhB, ndhA, petB, petD, and ycf3. The annotation contains 23 intron features. Notably, ycf3 contains two introns, and rps12 is annotated as a trans-spliced gene. The matK gene occurs within the intron of the tRNA-Lys (UUU) gene.
 
 ## 7. Describe any pseudogenes, gene losses, duplications, rearrangements, or other unusual features reported for your plastid genome. If none are reported, state this clearly.
 
-The *J. nudiflorum* chloroplast genome has several unusual structural features. The 2007 study reported multiple overlapping inversions, gene duplications, insertions, IR expansion, and gene and intron losses. A 2.8-kb region containing **ycf4 and psaI** was relocated to the middle of the LSC region through two overlapping inversions. The study also reported duplication of **ycf1** caused by IR expansion and a reduction of the **accD** region.
+The *J. nudiflorum* chloroplast genome has several unusual structural features. The 2007 study reported multiple overlapping inversions, gene duplications, insertions, IR expansion, and gene and intron losses. A 2.8-kb region containing ycf4 and psaI was relocated to the middle of the LSC region through two overlapping inversions. The study also reported duplication of ycf1 caused by IR expansion and a reduction of the accD region.
 
-Two introns normally found in **clpP** are absent in *J. nudiflorum*. The study also described highly repeated sequences associated with the reduced accD region and downstream of clpP. These features make the genome organization of *Jasminum* different from the more conserved chloroplast genome arrangement seen in many other flowering plants.
+Two introns normally found in clpP are absent in *J. nudiflorum*. The study also described highly repeated sequences associated with the reduced accD region and downstream of clpP. These features make the genome organization of *Jasminum* different from the more conserved chloroplast genome arrangement seen in many other flowering plants.
 
 The current GenBank annotation does not contain an explicit `pseudogene` feature, so a pseudogene should not be claimed solely from the annotation.
 
 ## 8. What is the GC content of your plastid genome? Based on your Galaxy results and annotation, describe two other notable sequence or structural observations.
 
-The GC content of the *Jasminum nudiflorum* chloroplast genome is **37.98%**, based on the Galaxy FASTA Statistics result.
+The GC content of the *Jasminum nudiflorum* chloroplast genome is 37.98%, based on the Galaxy FASTA Statistics result.
 
 Two notable observations are:
 
-1. The genome is represented by **one sequence record** with a total length of **165,121 bp**, matching the NCBI record.
-2. The chloroplast genome has an **LSC–IR–SSC–IR structure with unusually large 29,486-bp IRs**. The IR expansion includes duplication of **ycf1** and contributes to the distinctive organization of the *J. nudiflorum* plastome.
+1. The genome is represented by one sequence record with a total length of 165,121 bp, matching the NCBI record.
+2. The chloroplast genome has an LSC–IR–SSC–IR structure with unusually large 29,486-bp IRs. The IR expansion includes duplication of ycf1 and contributes to the distinctive organization of the *J. nudiflorum* plastome.
 
 The published study also reported an overall A–T content of approximately 62%, indicating that the genome is AT-rich.
 
@@ -321,10 +321,10 @@ Galaxy Training Network: https://usegalaxy.org/?tool_id=toolshed.g2.bx.psu.edu%2
 
 # Reproducibility Summary
 
-1. Retrieve **NC_008407.1** from NCBI Nucleotide/RefSeq.
+1. Retrieve NC_008407.1 from NCBI Nucleotide/RefSeq.
 2. Download the complete chloroplast genome in FASTA format.
 3. Upload the FASTA file to a personal Galaxy history.
-4. Use **FASTA Statistics** to obtain genome length, sequence count, GC content, N50, L50, and gap information.
+4. Use FASTA Statistics to obtain genome length, sequence count, GC content, N50, L50, and gap information.
 5. Retain the annotated GenBank/RefSeq record for gene, intron, and structural-feature characterization.
 6. Record the LSC, SSC, and IR organization from the associated complete-genome publication.
 7. Summarize gene groups, RNA features, introns, duplications, and unusual structural features.
