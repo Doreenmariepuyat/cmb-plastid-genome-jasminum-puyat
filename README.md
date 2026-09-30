@@ -15,7 +15,9 @@
 ## NCBI Accession and Source
 
 **NCBI Accession/Version:** NC_008407.1
+
 **Source:** NCBI Nucleotide / RefSeq
+
 **Source Link:** https://www.ncbi.nlm.nih.gov/nuccore/NC_008407.1
 
 The record is identified by NCBI as the complete chloroplast genome of *Jasminum nudiflorum*.
