@@ -1,7 +1,9 @@
 # Cell & Molecular Biology Lab Activity: Characterization of a Plastid Genome
 
 **Name:** Puyat, Doreen Marie G.
+
 **Course:** BIO300- Cell and Molecular Biology
+
 **Section:** B
 
 # 1. Purpose
@@ -34,9 +36,11 @@ In this activity, one plant genus with an available complete plastid genome was 
 **NCBI accession:** NC_008407.1
 
 <img width="429" height="123" alt="image" src="https://github.com/user-attachments/assets/19595345-7708-4dc8-9b68-c1f142f0d2e3" />
+
 **Figure 1.** NCBI record for the *Jasminum nudiflorum* chloroplast complete genome (NC_008407.1), showing the 165,121 bp genome length, circular topology, and associated publication information.
 
 <img width="1206" height="646" alt="image" src="https://github.com/user-attachments/assets/712fcae0-d760-4262-b17d-f9f88826a4f8" />
+
 **Figure 2.** FASTA sequence record of the selected *Jasminum nudiflorum* chloroplast complete genome (NC_008407.1) retrieved from NCBI and used as the genome sequence source for the Galaxy analysis.
 
 # 4. Data Source and Genome Selection
@@ -81,6 +85,7 @@ The FASTA file for NC_008407.1 was downloaded from NCBI and uploaded to the pers
 | L50 | 1 |
 
 <img width="1360" height="639" alt="image" src="https://github.com/user-attachments/assets/bd124174-f983-4b10-a9c2-24ad1350d19e" />
+
 **Figure 3.** Galaxy FASTA Statistics result for the *Jasminum nudiflorum* chloroplast genome. The uploaded FASTA contains one sequence with a total length of 165,121 bp, 37.98% GC content, and no gaps.
 
 
@@ -149,6 +154,7 @@ The FASTA file for NC_008407.1 was downloaded from NCBI and uploaded to the pers
 | ycf | ycf1, ycf2, ycf3, ycf genes | Conserved chloroplast genes with diverse or incompletely characterized functions. |
 
 <img width="1235" height="635" alt="image" src="https://github.com/user-attachments/assets/90d0b801-55fd-422a-992f-d49ae9aca3a1" />
+
 **Figure 4.** NCBI RefSeq record used for the plastid genome characterization of *Jasminum nudiflorum*, showing accession NC_008407.1, genome size of 165,121 bp, circular topology, and annotated genomic information.
 
 # 9. Questions for the Student Report
@@ -301,13 +307,17 @@ Nuclear genomic data would be more appropriate because complex traits can involv
 
 # References
 
-NCBI Nucleotide / RefSeq: https://www.ncbi.nlm.nih.gov/nuccore/NC_008407.1
+Primary data source: NCBI Nucleotide / RefSeq. Jasminum nudiflorum chloroplast, complete genome. Accession NC_008407.1.
 
-Lee, H.-L., Jansen, R. K., Chumley, T. W., & Kim, K.-J. (2007). Gene relocations within chloroplast genomes of *Jasminum* and *Menodora* (Oleaceae) are due to multiple, overlapping inversions. *Molecular Biology and Evolution, 24*(5), 1161–1180. https://doi.org/10.1093/molbev/msm036
+Associated publication: Lee, H.-L., Jansen, R. K., Chumley, T. W., & Kim, K.-J. (2007). Gene relocations within chloroplast genomes of Jasminum and Menodora (Oleaceae) are due to multiple, overlapping inversions. Molecular Biology and Evolution, 24(5), 1161–1180.
 
-Galaxy Training Network: https://training.galaxyproject.org/
+Galaxy: https://usegalaxy.org/u/doreenmariepuyat/h/plastid-jasminum-puyat
 
-usegalaxy.org: https://usegalaxy.org/
+NCBI Nucleotide: https://www.ncbi.nlm.nih.gov/nuccore/?term=jasminum+chloroplast+complete+genome
+
+GenBank: https://www.ncbi.nlm.nih.gov/nuccore/NC_008407.1
+
+Galaxy Training Network: https://usegalaxy.org/?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffasta_stats%2Ffasta-stats%2F2.0&version=latest
 
 # Reproducibility Summary
 
