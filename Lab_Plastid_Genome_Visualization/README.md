@@ -1,4 +1,4 @@
-# Plastid Genome Visualization – Jasminum nudiflorum
+# Plastid Genome Visualization – *Jasminum nudiflorum*
 
 **Name:** Puyat, Doreen Marie G.
 
