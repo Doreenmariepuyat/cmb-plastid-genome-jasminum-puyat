@@ -21,15 +21,11 @@ One example is ndhA. It is located in the SSC region and is involved in the phot
 
 ## 6. Give at least one example of a gene that occurs within an inverted repeat region. Is the gene shown more than once because of the duplicated IR regions?
 
-One example is rpl2.
-
-Yes. Genes located within an inverted repeat region can occur twice because the chloroplast genome has two similar IR regions, IRa and IRb. The map shows duplicated copies of several genes in these regions.
+One example is rpl2, and yes, as genes located within an inverted repeat region can occur twice because the chloroplast genome has two similar IR regions, IRa and IRb. The map shows duplicated copies of several genes in these regions.
 
 ## 7. Choose one photosynthesis-related gene visible on your map. State its gene name and its general biological function.
 
-One example is psbA.
-
-The psbA gene codes for the Photosystem II D1 protein, which is important for photosynthesis and the light-dependent reactions.
+One example is psbA. The psbA gene codes for the Photosystem II D1 protein, which is important for photosynthesis and the light-dependent reactions.
 
 ## 8. What does the direction of the gene arrows or gene orientation tell you about transcription on the plastid genome?
 
